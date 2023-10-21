@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Blender Pro Book';
+    src:local('Blender Pro Book') 
+    url('./Blender\ Pro\ Book.ttf') 
+    format(truetype);
+}

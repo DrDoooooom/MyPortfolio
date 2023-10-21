@@ -1,0 +1,17 @@
+.footer{
+    font-family: Blender Pro Book;
+    width: 100vw;
+    height: 8rem;
+    background: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 300;
+    font-size: small;
+    padding-top: 10px;
+
+}
+
+.wrapper{
+    flex-grow: 1,
+}

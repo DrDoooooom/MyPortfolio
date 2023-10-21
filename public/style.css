@@ -4,11 +4,11 @@
     box-sizing : border-box;
     text-decoration: transparent;
     background: transparent;
-    font-family: "Poppins", sans-serif;
+    font-family: Blender Pro Book;
 }
 
 body {
-    background: rgb(0, 0, 0);
+    background: #000000;
     color: azure;
     overflow: hidden;
     overflow-y: scroll;
