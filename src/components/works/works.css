@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Blender Pro Book';
+    src: local('Blender Pro Book'), local('Blender-Pro-Book'),
+        url('../../fonts/BlenderPro-Book.woff2') format('woff2'),
+        url('../../fonts/BlenderPro-Book.woff') format('woff'),
+        url('../../fonts/BlenderPro-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
 #works {
     margin: 0 auto;
     text-align: center;
@@ -38,11 +48,11 @@
 .WorksImg {
     object-fit: cover;
     margin: 1rem;
-    height: 100px;
+    height: 4rem;
 }
 
 .project1 {
-        font-family: Blender Pro Book;
+    font-family: Blender Pro Book;
     display:block;
     align-items: center;
     text-align: center;
