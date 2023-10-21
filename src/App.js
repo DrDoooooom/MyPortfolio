@@ -1,11 +1,10 @@
-
+import Navbar from "./components/navBar/navBar";
 
 function App() {
   return (
-    <div>
-      <div style={{ height: "200px" }}></div>
+    <div className="App">
+      <Navbar />
     </div>
   );
 }
-
 export default App;
