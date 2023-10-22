@@ -1,0 +1,42 @@
+.contactPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 70vh; 
+  }
+  
+  .contactPageTitle {
+    margin-top: 10rem;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  
+  .links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content :center;
+    margin-top: 1rem;
+
+  }
+  
+  .link {
+    width: 40px; 
+    height: 40px; 
+}
+
+  /* .link:hover{
+    opacity:0;
+  } */
+
+.Emailid{
+  margin: 1.5rem;
+  font-weight: 100;
+}
+
+
+.linkedin {
+  margin: 1.5rem;
+}
