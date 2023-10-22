@@ -23,5 +23,5 @@ const Works = () => {
       </section>
     );
 };
-
+  
 export default Works;
