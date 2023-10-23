@@ -103,15 +103,15 @@ const Navbar = () => {
         </Link>
         <Link
           activeClass="active"
-          to="contact"
+          to="contactme"
           spy={true}
           smooth={true}
-          offset={50}
+          offset={-100}
           duration={500}
           className="listItem"
           onClick={() => setShowMenu(false)}
         >
-          Contact
+          Contact Me
         </Link>
       </div>
     </nav>

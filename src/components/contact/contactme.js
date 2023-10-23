@@ -28,8 +28,8 @@ const ContactMe = () => {
   };
 
   return (
-    <section className="contactPage">
-      <div id="contact">
+    <section id="contactme">
+      <div className="contactPage">
         <h1 className="contactPageTitle">Contact Me</h1>
         <div className="links">
           <div className="emailId" onClick={openEmail}>
