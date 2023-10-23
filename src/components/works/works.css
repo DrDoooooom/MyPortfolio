@@ -88,16 +88,27 @@
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
     background: rgb(40,40,40);
+    
 }
 
 .skillBar:hover {
     background-color: rgb(50,50,45);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
 }
 
 .skillBarText >p {
     font-size: 1rem;
     font-weight: 200;
+}
+
+.linktorepo{
+    color: #fffa00;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 100%; 
 }
 
 

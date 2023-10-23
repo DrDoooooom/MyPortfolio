@@ -7,7 +7,7 @@ import Python from "../../assets/python-logo.gif"
 const Skills = () => {
   return (
     <section id="skills">
-      <span className="skillTitle">What I do</span>
+      <span className="skillTitle">About Me</span>
       <span className="skillDesc">
         {" "}
         I bring a robust skill set to the world of web development as a Full

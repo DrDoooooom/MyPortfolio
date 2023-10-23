@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-scroll";
 
 import './intro.css';
-import btnimg from '../../assets/hireme.png'
 
 const Intro = () => {
     return (
@@ -15,12 +14,6 @@ const Intro = () => {
                 <p className="introPara">
                     I am a skilled Web Developer with experience in developing and managing Web Apps. {" "}
                 </p>
-                <Link>
-                    <button className="btn">
-                        <img src={btnimg} alt="Hire Me" className="btnimg" />
-                        Hire Me
-                    </button>
-                </Link>
             </div>
         </section>
     );

@@ -21,6 +21,15 @@
     margin-top: 1rem;
 
   }
+
+  .linktoaccount{
+
+    color: #fffa00;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    width: 100%; 
+  }
   
   .link {
     width: 40px; 
