@@ -51,7 +51,7 @@
     height: 4rem;
 }
 
-.project1 {
+.projects {
     font-family: Blender Pro Book;
     display:block;
     align-items: center;
@@ -59,16 +59,47 @@
 
 }
 
-.projectInfo1 {
-    margin-bottom: 1rem;
+.skillTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 1;
+    margin-bottom: 2rem;
 
 }
 
-.projectInfo1:hover {
-   
-    transform: scale(1.05);
-   
+.skillDesc {
+    font-weight: 300;
+    font-size: 1rem;
+    max-width: 60rem;
+    padding:  0 2rem;
+    text-align: justify;
 }
+
+.skillBars {
+    margin: 1.5rem;
+    width: 100vw;
+    max-width: 80%;
+    text-align: left;
+}
+
+.skillBar {
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(40,40,40);
+}
+
+.skillBar:hover {
+    background-color: rgb(50,50,45);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.skillBarText >p {
+    font-size: 1rem;
+    font-weight: 200;
+}
+
 
 @media screen and (max-width:550px){
 
