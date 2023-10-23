@@ -10,7 +10,7 @@ const Intro = () => {
             <div className="introContent">
                 <span className="hello">Hello,</span>
                 <span className="introText">
-                    I'M <span className="introName">Swapnil,</span><br /> A Full Stack Developer
+                    I'M <span className="introName">Swapnil,</span><br /> A Full Stack and a Python Developer
                 </span>
                 <p className="introPara">
                     I am a skilled Web Developer with experience in developing and managing Web Apps. {" "}

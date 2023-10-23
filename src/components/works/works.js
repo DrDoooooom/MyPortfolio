@@ -18,6 +18,21 @@ const Works = () => {
             <p className="projectInfo1">
               Currently working on building a E-Comm Website
             </p>
+            <p className="projectInfo1">
+              Currently working on building a E-Comm Website
+            </p>
+            <p className="projectInfo1">
+              Currently working on building a E-Comm Website
+            </p>
+            <p className="projectInfo1">
+              Currently working on building a E-Comm Website
+            </p>
+            <p className="projectInfo1">
+              Currently working on building a E-Comm Website
+            </p>
+            <p className="projectInfo1">
+              Currently working on building a E-Comm Website
+            </p>
           </div>
         </div>
       </section>
